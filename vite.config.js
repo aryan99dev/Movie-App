@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
       react()
   ],
-  base: "/Movie-App",
+  base: "/Movie-App/",
 })
